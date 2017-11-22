@@ -1,5 +1,5 @@
 ﻿#!/bin/sh
-#Author Mikhail Sarvilin
+#Author Mikhail Sarvilin & Alex Boyko
 #script for install Arch Linux 
 #
 #
